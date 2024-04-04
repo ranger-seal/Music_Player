@@ -1,0 +1,7 @@
+E:\C#_project\Music_HKTK\Music_HKTK\bin\Debug\Music_HKTK.exe.config
+E:\C#_project\Music_HKTK\Music_HKTK\bin\Debug\Music_HKTK.exe
+E:\C#_project\Music_HKTK\Music_HKTK\bin\Debug\Music_HKTK.pdb
+E:\C#_project\Music_HKTK\Music_HKTK\obj\Debug\Music_HKTK.csproj.AssemblyReference.cache
+E:\C#_project\Music_HKTK\Music_HKTK\obj\Debug\Music_HKTK.csproj.CoreCompileInputs.cache
+E:\C#_project\Music_HKTK\Music_HKTK\obj\Debug\Music_HKTK.exe
+E:\C#_project\Music_HKTK\Music_HKTK\obj\Debug\Music_HKTK.pdb
